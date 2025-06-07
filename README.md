@@ -1,4 +1,4 @@
-# 🧠 Deep Optimal Stopping
+# Deep Optimal Stopping
 
 This notebook explores the problem of **optimal stopping** for a high-dimensional Bermudan Max-Call option using **deep learning techniques**.
 
@@ -6,7 +6,7 @@ We reformulate the classical dynamic programming approach into a data-driven met
 
 ---
 
-## 📈 Problem Setup
+## Problem Setup
 
 We consider a Bermudan Max-Call option with multiple underlying assets. Each asset evolves under a **risk-neutral Black-Scholes model**:
 
@@ -29,7 +29,7 @@ Where $\tau$ is a stopping time based on asset trajectories.
 
 ---
 
-## 🧪 What’s Inside
+## What’s Inside
 
 ### 1. Asset Simulation
 
@@ -51,7 +51,7 @@ After training, we:
 
 ---
 
-## 🧠 Highlights
+## Highlights
 
 - ✅ Handles **multi-asset**, high-dimensional problems.
 - 📊 Learns an **adaptive exercise strategy** through neural networks.
@@ -59,7 +59,7 @@ After training, we:
 
 ---
 
-## 📌 Requirements
+## Requirements
 
 - Python 3.8+
 - `numpy`, `torch`, `matplotlib`, `scipy`, `tqdm`
@@ -67,13 +67,13 @@ After training, we:
 
 ---
 
-## 🧾 References
+## References
 
 - Becker, Cheridito & Jentzen (2019). *Deep optimal stopping.*
 
 ---
 
-## 🧳 Use Case
+## Use Case
 
 This notebook is ideal for:
 - Quant researchers exploring deep reinforcement learning for pricing.
@@ -82,15 +82,15 @@ This notebook is ideal for:
 
 ---
 
-## 👤 Author
+## Author
 
-👨‍💻 Guillaume Routier  
-🎓 MSc Probabilité & Finance – École Polytechnique & Sorbonne Université  
-📬 [Contact me on LinkedIn](https://www.linkedin.com/in/guillaume-routier/)
+Guillaume Routier  
+MSc Probabilité & Finance – École Polytechnique & Sorbonne Université  
+[Contact me on LinkedIn](https://www.linkedin.com/in/guillaume-routier/)
 
 ---
 
-## 📌 Disclaimer
+## Disclaimer
 
 These notebooks are for educational and demonstrative purposes only. They do not constitute financial advice.
 
