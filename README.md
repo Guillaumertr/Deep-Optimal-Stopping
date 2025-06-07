@@ -90,9 +90,3 @@ MSc Probabilité & Finance – École Polytechnique & Sorbonne Université
 ## Disclaimer
 
 These notebooks are for educational and demonstrative purposes only. They do not constitute financial advice.
-
----
-
-## ⭐ If you find this useful...
-
-Feel free to **star** the repo or get in touch for collaboration!
