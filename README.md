@@ -44,10 +44,7 @@ We model the stopping decision at each time as a **classification problem**:
 
 ### 3. Evaluation
 
-After training, we:
-- Estimate the option price using out-of-sample scenarios.
-- Compare the learned stopping policy to benchmarks (e.g., Longstaff-Schwartz or oracle).
-- Visualize policy decisions and asset trajectories.
+After training, we estimate the option price using out-of-sample scenarios.
 
 ---
 
