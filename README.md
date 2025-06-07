@@ -53,9 +53,9 @@ After training, we:
 
 ## Highlights
 
-- ✅ Handles **multi-asset**, high-dimensional problems.
-- 📊 Learns an **adaptive exercise strategy** through neural networks.
-- 💡 Bridges financial theory and modern ML.
+- Handles **multi-asset**, high-dimensional problems.
+- Learns an **adaptive exercise strategy** through neural networks.
+- Bridges financial theory and modern ML.
 
 ---
 
